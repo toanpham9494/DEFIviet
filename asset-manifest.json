@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/toanpham9494.github.io/projectdefi/static/css/main.80a93f6d.css",
-    "main.js": "/toanpham9494.github.io/projectdefi/static/js/main.512796fe.js",
-    "static/media/video.mp4": "/toanpham9494.github.io/projectdefi/static/media/video.a2703484bb9eee7d0c2e.mp4",
-    "static/media/subscribe.jpg": "/toanpham9494.github.io/projectdefi/static/media/subscribe.5e6ecdcfa451a31625d0.jpg",
-    "static/media/terminal.png": "/toanpham9494.github.io/projectdefi/static/media/terminal.008c23b28e62ddbd576c.png",
-    "index.html": "/toanpham9494.github.io/projectdefi/index.html",
-    "main.80a93f6d.css.map": "/toanpham9494.github.io/projectdefi/static/css/main.80a93f6d.css.map",
-    "main.512796fe.js.map": "/toanpham9494.github.io/projectdefi/static/js/main.512796fe.js.map"
+    "main.css": "/toanpham9494.github.io/DEFIviet/static/css/main.44c56462.css",
+    "main.js": "/toanpham9494.github.io/DEFIviet/static/js/main.0873cd48.js",
+    "static/media/video.mp4": "/toanpham9494.github.io/DEFIviet/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/subscribe.jpg": "/toanpham9494.github.io/DEFIviet/static/media/subscribe.5e6ecdcfa451a31625d0.jpg",
+    "static/media/terminal.png": "/toanpham9494.github.io/DEFIviet/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/toanpham9494.github.io/DEFIviet/index.html",
+    "main.44c56462.css.map": "/toanpham9494.github.io/DEFIviet/static/css/main.44c56462.css.map",
+    "main.0873cd48.js.map": "/toanpham9494.github.io/DEFIviet/static/js/main.0873cd48.js.map"
   },
   "entrypoints": [
-    "static/css/main.80a93f6d.css",
-    "static/js/main.512796fe.js"
+    "static/css/main.44c56462.css",
+    "static/js/main.0873cd48.js"
   ]
 }
