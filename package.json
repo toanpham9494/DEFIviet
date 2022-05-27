@@ -1,8 +1,8 @@
 {
-  "name": "DEFIviet",
+  "name": "defiviet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "toanpham9494.github.io/DEFIviet/",
+  "homepage": "toanpham9494.github.io/defiviet/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
